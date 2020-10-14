@@ -2,4 +2,3 @@
 
 Fitness tracking app.
 
-## Getting Started
